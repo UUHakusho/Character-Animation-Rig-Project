@@ -2,7 +2,7 @@ Blender and Python Character Animation Rig Project.
 For the visuals see: https://uyi30.artstation.com/projects/d0mV3J
 
 This project creates a character animation rig using a script that automatically applies Inverse Kinematic constraints on specified bones of a human Metarig
-from Blender's Rigify Add-On. This script can work on any .blend file with the Human Metarig. The final result includes a 3D model skinned to a functional rig.
+from Blender's Rigify Add-On, effectively speeding up the rigging process which would be useful in a art pipeline. This script can work on any .blend file with the Human Metarig. The final result includes a 3D model skinned to a functional rig.
 Command line input for Windows:
     blender.exe kakashi_metarig.blend --python character_rig.py
 
