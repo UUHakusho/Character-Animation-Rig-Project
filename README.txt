@@ -1,4 +1,4 @@
-Blender and Python Character Animation Rig Project.
+Blender and Python Character Animation Auto-Rig Project.
 For the visuals see: https://uyi30.artstation.com/projects/d0mV3J
 
 This project creates a character animation rig using a script that automatically applies Inverse Kinematic constraints on specified bones of a human Metarig
