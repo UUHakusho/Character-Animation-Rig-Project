@@ -26,3 +26,6 @@ README.txt 	= this file
 
 -IF NOT USING COMMAND PROMPT: Open the kakashi_metarig.blend file in Blender. Go to the Scripting Tab at the near the top of the UI,
  select "New" and open the character_rig.py script, then select the run button and the rig should be ready.
+ 
+![image](https://user-images.githubusercontent.com/53986754/197952667-39fe264a-9d94-48a9-bb38-cd88ec5be39f.png)
+
